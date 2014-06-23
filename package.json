@@ -17,7 +17,7 @@
   "main": "./lib/passport-localapikey",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport": "~0.1.1"
+    "passport": "0.2.x"
   },
   "devDependencies": {
     "vows": "0.7.x"
