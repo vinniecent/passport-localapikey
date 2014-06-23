@@ -10,7 +10,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Installation
 
-    $ npm install passport-localapikey
+    $ npm install passport-localapikey-update
 
 ## Usage
 
@@ -58,6 +58,7 @@ application:
 ## Credits
 
   - [Sudhakar Mani](http://twitter.com/sudhakarmani)
+  - [Anton Pototsky](http://linkedin.com/in/antonpototsky/)
 
 ## License
 
