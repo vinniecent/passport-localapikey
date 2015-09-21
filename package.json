@@ -1,6 +1,6 @@
 {
   "name": "passport-localapikey-update",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "Updated version of local api key authentication strategy for Passport originally created by Sudhakar Mani.",
   "author": {
     "name": "antgraf",

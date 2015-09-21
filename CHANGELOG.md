@@ -1,9 +1,13 @@
-# vX.X.X
+# v0.5.0
 
 New Features:
 
-- Use `passport-strategy` instead of `passport` ([#1](https://github.com/antgraf/passport-localapikey/pull/1))
+- Switch to use `passport-strategy` instead of `passport` in project `dependencies` ([#1](https://github.com/antgraf/passport-localapikey/pull/1))
 - Add change log
+
+Bug Fixes:
+
+- Remove generated portion of `package.json` ([#2](https://github.com/antgraf/passport-localapikey/pull/2))
 
 # v0.4.2
 
