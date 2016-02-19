@@ -20,6 +20,7 @@ The local api key authentication strategy authenticates users using a apikey.
 The strategy requires a `verify` callback, which accepts these
 credentials and calls `done` providing a user.
 
+    var LocalAPIKeyStrategy = require("passport-localapikey-update").Strategy;
     passport.use(new LocalAPIKeyStrategy(
       function(apikey, done) {
         User.findOne({ apikey: apikey }, function (err, user) {
